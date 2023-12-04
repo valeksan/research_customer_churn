@@ -10,4 +10,5 @@
 * Случайный лес
 * Логистическая регрессия
 
-## Источник данных: <https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling>
+## Источник данных:
+<https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling>
